@@ -1,0 +1,244 @@
+@media screen and (max-width: 900px) and (min-width: 200px)  {
+    body {
+        overflow-x: hidden;
+        width: 100vw;
+    }
+    .navbar{
+        display: flex;
+        flex-direction: column;
+    }
+    .remm{
+        flex-direction: column;
+        height: 100%;
+    }
+    h1{
+        font-size: 40px;
+        width: 100%;
+    }
+    h2{
+        font-size: 35px;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+    h4{
+        font-size: 40px;
+        width: 100%;
+    }
+    .empower{
+        width: 100%;
+    }
+    .First{
+        height: 100%;
+    }
+    .unlockSpacing{
+        margin-top: 5vh;
+    }
+    .potential{
+        flex-direction: column;
+        align-items: flex-start;
+        height: 100%;
+    }
+    .cardCont{
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 5%;
+    }
+    .cards{
+        margin: 0 auto;
+    }
+    .potentialImg{
+    width: 100%;
+    }
+    .potentialImg > img{
+        width: 100%;
+    }
+    .spice{
+        flex-direction: column;
+        height: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .spiceImg{
+        width: 100%;
+    }
+    .spiceImg > Img{
+        width: 90%;
+    }
+    .committed{
+        width: 100%;
+        text-align: center;
+    }
+    .img2{
+        width: 100%;
+    }
+    .img2 > img{
+        width: 100%;
+    }
+    .comp{
+        flex-direction: column;
+        height: 100%;
+    }
+    .p-compel{
+        width: 100%;
+        font-size: 35px;
+    }
+    .compelt{
+        width: 100%;
+    }
+    .data-insight{
+        flex-direction: column;
+        height: 100%;
+    }
+    .datt{
+        font-size: 30px;
+        width: 100%;
+    }
+    .smalldat{
+        font-size: 18px;
+        width: 100%;
+    }
+    .experts{
+        height: 100%;
+        flex-direction: column;
+    }
+    .expertys{
+        font-family: 30px;
+        width: 100%;
+        text-align: left;
+    }
+    .footCont{
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .footText{
+        align-items: flex-start;
+    }
+}
+
+
+@media screen and (max-width: 1200px) and (min-width: 901px)  {
+    .navbar{
+        display: flex;
+        flex-direction: column;
+    }
+    .remm{
+        flex-direction: row;
+        height: 100%;
+    }
+    h1{
+        font-size: 35px;
+        width: 100%;
+    }
+    h2{
+        font-size: 35px;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+    h4{
+        font-size: 35px;
+        width: 100%;
+    }
+    .empower{
+        width: 100%;
+    }.unlockSpacing{
+        margin-top: 5vh;
+    }
+    .First{
+        height: 100%;
+    }
+    .potential{
+        flex-direction: row;
+        align-items: flex-start;
+        align-items: center;
+        height: 100%;
+        width: 90%;
+    }
+    .cards{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .cardCont{
+        width: 90%;
+    }
+    .potentialImg{
+    width: 100%;
+    }
+    .potentialImg > img{
+        width: 100%;
+    }
+    .spice{
+        flex-direction: row;
+        height: 100%;
+    }
+    .spiceImg{
+        width: 60%;
+    }
+    .spiceImg > Img{
+        width: 100%;
+    }
+    .committed{
+        width: 100%;
+        font-size: 16px;
+    }
+    .img2{
+        width: 70%;
+    }
+    .img2 > img{
+        width: 100%;
+    }
+    .compelling{
+        width: 80vw;
+    }
+    .comp{
+        flex-direction: row;
+        height: 100%;
+        width: 70vw;
+    }
+    .p-compel{
+        width: 100%;
+        font-size: 35px;
+    }
+    .compelt{
+        width: 100%;
+    }
+    .image-compel {
+        width: 90%;
+        overflow: hidden;
+
+    }
+    .mimimimi{
+        width: 90%;
+        overflow: none;
+    }
+    .data-insight{
+        flex-direction: row;
+        height: 90%;
+    }
+    .phone {
+        width: 90%;
+        overflow: none;
+    }
+    .phone > img{
+        width: 90%;
+        overflow: none;
+    }
+    .datt{
+        font-size: 30px;
+        width: 100%;
+    }
+    .smalldat{
+        font-size: 18px;
+        width: 100%;
+    }
+    .experts{
+        height: 100%;
+        flex-direction: column;
+    }
+    .expertys{
+        font-family: 30px;
+        width: 100%;
+        text-align: left;
+    }
+}
